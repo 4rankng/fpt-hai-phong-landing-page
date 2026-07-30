@@ -1,0 +1,10 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.tsbuildinfo
+repomix-output.xml
+.env
+.env.local
+.env.*.local
+public/sitemap.xml
